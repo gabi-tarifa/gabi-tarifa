@@ -50,11 +50,11 @@ Projeto web educacional com:
 
 ## Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-tarifa&layout=compact&theme=tokyonight)
+![Langs](https://github-readme-stats-git-master.glebm-dev.vercel.app/api/top-langs/?username=gabi-tarifa&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabi-tarifa&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-master.glebm-dev.vercel.app/api?username=gabi-tarifa&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gabi-tarifa&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=gabi-tarifa&theme=tokyonight)
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
