@@ -60,7 +60,7 @@ Projeto web educacional com:
 
 </div>
 <div align="left">
-![CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+[CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 </div>
@@ -71,10 +71,10 @@ Projeto web educacional com:
 Se quiser trocar ideias, colaborar em projetos ou apenas conversar sobre desenvolvimento, pode me contatar via redes sociais ou aqui!
 
 ### Instagram
-@gabi_tarifa45
+[@gabi_tarifa45](https://www.instagram.com/gabi_tarifa45)
 
 ### Facebook
-link a ser adicionado :)
+[Gabriel Tarifa de Oliveira :)](https://facebook.com/gabriel.tarifadeoliveira)
 
 ### LinkedIn
-link a ser adicionado :)
+[Gabriel Tarifa de Oliveira](https://www.linkedin.com/in/gabrieltarifa/)
