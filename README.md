@@ -74,7 +74,7 @@ Se quiser trocar ideias, colaborar em projetos ou apenas conversar sobre desenvo
 [@gabi_tarifa45](https://www.instagram.com/gabi_tarifa45)
 
 ### Facebook
-[Gabriel Tarifa de Oliveira :)](https://facebook.com/gabriel.tarifadeoliveira)
+[Gabriel Tarifa de Oliveira](https://facebook.com/gabriel.tarifadeoliveira)
 
 ### LinkedIn
 [Gabriel Tarifa de Oliveira](https://www.linkedin.com/in/gabrieltarifa/)
