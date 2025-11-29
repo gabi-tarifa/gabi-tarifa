@@ -50,15 +50,20 @@ Projeto web educacional com:
 
 ## Estatísticas
 
-![Langs](https://github-readme-stats-git-master.glebm-dev.vercel.app/api/top-langs/?username=gabi-tarifa&layout=compact&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api?username=gabi-tarifa)
 
-![Stats](https://github-readme-stats-git-master.glebm-dev.vercel.app/api?username=gabi-tarifa&show_icons=true&theme=tokyonight)
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-tarifa)
 
 ![Streak](https://streak-stats.demolab.com?user=gabi-tarifa&theme=tokyonight)
 
-![CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</div>
 
 ---
 
