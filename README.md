@@ -56,7 +56,7 @@ Projeto web educacional com:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabi-tarifa&theme=tokyonight)
 
-[CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
