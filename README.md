@@ -26,7 +26,7 @@ Além de backend, também gosto de estruturar interfaces, criar lógicas mais co
 
 ## Projetos em Destaque
 
-### TrainStation Evolved (TSE) — *C#*  
+### TrainStation Evolved (TSE)  
 Um jogo completo criado do zero, focado em estratégia, economia interna e gerenciamento de frotas.  
 Inclui:
 - sistemas de raridade, frotas, otimização e balanceamento  
